@@ -1,0 +1,121 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	font-family: 'Poppins', sans-serif;
+}
+h1 {
+	letter-spacing: 10px;
+}
+.navi{
+	display: flex;
+	align-items: center;
+	padding: 30px;
+}
+nav{
+	flex: 1;
+	text-align: right;
+}
+nav ul li{
+	display: inline-block;
+	margin-right: 20px;
+}
+a{
+	text-decoration: none;
+	color: #555;
+}
+p{
+	color: #555;
+}
+.header{
+	margin: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.destinare{
+	text-align: center;
+	margin: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.destinare img{
+	width: 40%;
+}
+.placid{
+	text-align: center;
+}
+.placid img{
+	width: 40%;
+	text-align: center;
+}
+.placid1{
+	text-align: center;
+}
+.placid1 img{
+	width: 30%;
+}
+.placid2{
+	text-align: center;
+}
+.placid2 img{
+	width: 15%;
+}
+.placid3{
+	text-align: center;
+}
+.placid3 img{
+	width: 46%;
+}
+.placid4{
+	text-align: center;
+}
+.placid4 img{
+	width: 46%;
+}
+.placid5{
+	text-align: center;
+	margin: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.placid5 img{
+	width: 48%;
+}
+.row{
+	margin: auto;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+.footer p{
+    font-size: 14px;
+    text-align: center;
+    padding-left: 25px;
+		padding-right: 25px;
+}
+.collection1{
+	text-align: center;
+}
+.collection1 img{
+	width: 30%;
+}
+.collection2{
+	text-align: center;
+}
+.collection2 img{
+	width: 30%;
+}
+.collection3{
+	text-align: center;
+}
+.collection3 img{
+	width: 30%;
+}
+.collection4{
+	text-align: center;
+}
+.collection4 img{
+	width: 30%;
+}
+
